@@ -48,6 +48,9 @@ Forward pass:
 
 The total loss is a combination of:
 
+<img width="1173" height="769" alt="image" src="https://github.com/user-attachments/assets/3c296efc-f592-4873-b0dc-93087aa40efa" />
+
+
 ### 🔹 Components
 
 1. **Classification Loss**
